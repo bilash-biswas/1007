@@ -1,0 +1,6 @@
+A = io.read("*n")
+B = io.read("*n")
+C = io.read("*n")
+D = io.read("*n")
+result = (A * B - C * D)
+print("DIFERENCA = "..result)
