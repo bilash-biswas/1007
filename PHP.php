@@ -7,5 +7,4 @@ $num4 = (int)readline();
 $mul = ($num1 * $num2 - $num3 * $num4);
 echo "DIFERENCA = ".$mul."\n";
 
-
 ?>
