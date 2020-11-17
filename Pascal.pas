@@ -11,5 +11,5 @@ begin
     read(c);
     read(d);
     x := a * b - c * d;
-    writeln('DIFERENCA = ',x);
+    writeln('DIFERENCA = ', x);
 end.
